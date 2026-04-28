@@ -1,0 +1,1 @@
+FridgeMate is a smart kitchen assistant that helps you manage your food efficiently. It tracks items in your fridge, suggests recipes based on available ingredients, and sends alerts for expiring products—reducing food waste and simplifying meal planning.
