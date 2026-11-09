@@ -1,4 +1,4 @@
-# 🥗 FridgeMate – Smart Kitchen Assistant
+# 🥗 FridgeMate - Smart Kitchen Assistant
 
 **Reduce food waste. Manage your groceries. Discover what to cook.**
 
@@ -14,12 +14,12 @@ FridgeMate aims to address these challenges by providing a convenient digital so
 
 ## ✨ Key Features
 
-- **🧊 Food Inventory Management** – Keep track of food items stored in your kitchen.
-- **🍳 Recipe Suggestions** – Explore meal ideas based on available ingredients.
-- **⏰ Expiry Awareness** – Help identify food items that may be approaching their expiry dates.
-- **🛒 Smarter Grocery Management** – Make better use of existing ingredients before purchasing more.
-- **♻️ Food Waste Reduction** – Encourage responsible food consumption and more efficient kitchen management.
-- **📱 Android Experience** – Access kitchen management features through a mobile application.
+- **🧊 Food Inventory Management** - Keep track of food items stored in your kitchen.
+- **🍳 Recipe Suggestions** - Explore meal ideas based on available ingredients.
+- **⏰ Expiry Awareness** - Help identify food items that may be approaching their expiry dates.
+- **🛒 Smarter Grocery Management** - Make better use of existing ingredients before purchasing more.
+- **♻️ Food Waste Reduction** - Encourage responsible food consumption and more efficient kitchen management.
+- **📱 Android Experience** - Access kitchen management features through a mobile application.
 
 *Feature availability depends on the current implementation of the application.*
 
@@ -100,4 +100,4 @@ FridgeMate is an ongoing project focused on making everyday kitchen management m
 
 The vision behind FridgeMate is to transform the way people manage food at home by combining mobile technology with smarter inventory management and meal planning.
 
-**FridgeMate — Your kitchen, organized. Your food, valued.** 🌿
+**FridgeMate - Your kitchen, organized. Your food, valued.** 🌿
