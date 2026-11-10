@@ -23,9 +23,9 @@ FridgeMate aims to address these challenges by providing a convenient digital so
 
 ## Screenshots
 - App front screen
-  <img width="1920" height="1080" alt="Screenshot (801)" src="https://github.com/user-attachments/assets/4338aca3-5076-4ca4-8006-97280b0098fb" />
+  <img width="1920" height="1017" alt="Screenshot (809)" src="https://github.com/user-attachments/assets/188c4556-1493-47ce-a029-6a246703a032" />
 - Inventory Management and Expiry alert screen
-  <img width="1920" height="1080" alt="Screenshot (803)" src="https://github.com/user-attachments/assets/5a8bc87d-ff35-4b97-9cd5-dc6e35bf5da3" />
+  <img width="1920" height="1018" alt="Screenshot (808)(1)" src="https://github.com/user-attachments/assets/44e39d25-df7d-464a-8ffb-d8ca8814653e" />
 - Recipe suggestion screen
   <img width="1920" height="994" alt="Screenshot (805)" src="https://github.com/user-attachments/assets/9031fb99-683e-44c8-8dc0-0b4916292e15" />
 - Adding new item to the Inventory screen
