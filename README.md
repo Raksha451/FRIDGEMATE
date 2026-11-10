@@ -21,7 +21,18 @@ FridgeMate aims to address these challenges by providing a convenient digital so
 - **♻️ Food Waste Reduction** - Encourage responsible food consumption and more efficient kitchen management.
 - **📱 Android Experience** - Access kitchen management features through a mobile application.
 
-*Feature availability depends on the current implementation of the application.*
+## Screenshots
+- App front screen
+  <img width="1920" height="1080" alt="Screenshot (801)" src="https://github.com/user-attachments/assets/4338aca3-5076-4ca4-8006-97280b0098fb" />
+- Inventory Management and Expiry alert screen
+  <img width="1920" height="1080" alt="Screenshot (803)" src="https://github.com/user-attachments/assets/5a8bc87d-ff35-4b97-9cd5-dc6e35bf5da3" />
+- Recipe suggestion screen
+  <img width="1920" height="994" alt="Screenshot (805)" src="https://github.com/user-attachments/assets/9031fb99-683e-44c8-8dc0-0b4916292e15" />
+- Adding new item to the Inventory screen
+  <img width="1797" height="983" alt="Screenshot (812)" src="https://github.com/user-attachments/assets/4a1d8cb5-3f41-40a9-a932-f1aa8ad0c987" />
+-  AI Food detection screen
+   <img width="1794" height="979" alt="Screenshot (795)" src="https://github.com/user-attachments/assets/c4afe998-95fb-4092-8168-e7d12c499c63" />
+
 
 ## 🛠️ Tech Stack
 
